@@ -1,0 +1,5 @@
+package com.adria.audit.event;
+
+public enum EventSource {
+	MSTRANSATION,MSPAIEMENTFACTURE,MSPISTEDAUDIT,MSCONSULTATION,MSGESTIONCARTE
+}
